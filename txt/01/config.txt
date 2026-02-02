@@ -1,2 +1,8 @@
 {head="https://github.com/baijijidcyd/turbowarp-reader/01/"}
-{title-type=""}
+{title-type="\\title\\"}
+{passage-type="\"}
+{number-type="novel-number.txt"}
+{information="
+\作者:白白的喵喵
+\番茄小说转载 原作者授权
+"}
